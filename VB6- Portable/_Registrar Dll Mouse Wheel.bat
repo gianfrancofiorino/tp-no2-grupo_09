@@ -1,0 +1,1 @@
+regsvr32 VB6IDEMouseWheelAddin.dll
